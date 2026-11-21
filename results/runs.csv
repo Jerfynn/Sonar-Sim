@@ -1,0 +1,193 @@
+aborted,backoffs,baseline_s,brake_dist_m,collisions,completed,cruise,end,false_stops,late,min_clearance_m,mode,pings,scenario,sector_refresh_s,seed,sidesteps,skipped_legs,stage,stop_clearance_m,stops,time_lost_s,time_s,v_at_stop
+False,0,,0.18,0,True,0.1,stopped before obstacle,0,0,2.04,STOP,3220,wall_0.1,2.28,1,0,0,SIDESTEP,2.04,1,,128.8,0.1
+False,0,,0.15,0,True,0.1,stopped before obstacle,0,0,1.93,STOP,3264,wall_0.1,2.28,2,0,0,SIDESTEP,1.93,1,,130.6,0.1
+False,0,,0.18,0,True,0.1,stopped before obstacle,0,0,2.02,STOP,3132,wall_0.1,2.28,3,0,0,SIDESTEP,2.02,1,,125.3,0.11
+False,0,,0.15,0,True,0.1,stopped before obstacle,0,0,2.03,STOP,3242,wall_0.1,2.28,4,0,0,SIDESTEP,2.03,1,,129.7,0.1
+False,0,,0.15,0,True,0.1,stopped before obstacle,0,0,2.04,STOP,3244,wall_0.1,2.28,5,0,0,SIDESTEP,2.04,1,,129.8,0.1
+False,0,,0.17,0,True,0.1,stopped before obstacle,0,0,2.0,STOP,3178,wall_0.1,2.28,6,0,0,SIDESTEP,2.0,1,,127.1,0.1
+False,0,,0.18,0,True,0.1,stopped before obstacle,0,0,2.0,STOP,3215,wall_0.1,2.28,7,0,0,SIDESTEP,2.0,1,,128.6,0.1
+False,0,,0.19,0,True,0.1,stopped before obstacle,0,0,2.0,STOP,3288,wall_0.1,2.28,8,0,0,SIDESTEP,2.0,1,,131.5,0.1
+False,0,,0.19,0,True,0.2,stopped before obstacle,0,0,1.98,STOP,2075,wall_0.2,2.28,1,0,0,SIDESTEP,1.98,1,,83.0,0.1
+False,0,,0.17,0,True,0.2,stopped before obstacle,0,0,2.04,STOP,2070,wall_0.2,2.28,2,0,0,SIDESTEP,2.04,1,,82.8,0.1
+False,0,,0.16,0,True,0.2,stopped before obstacle,0,0,2.04,STOP,2039,wall_0.2,2.28,3,0,0,SIDESTEP,2.04,1,,81.6,0.1
+False,0,,0.2,0,True,0.2,stopped before obstacle,0,0,2.01,STOP,2095,wall_0.2,2.28,4,0,0,SIDESTEP,2.01,1,,83.8,0.1
+False,0,,0.17,0,True,0.2,stopped before obstacle,0,0,2.06,STOP,2098,wall_0.2,2.28,5,0,0,SIDESTEP,2.06,1,,83.9,0.1
+False,0,,0.18,0,True,0.2,stopped before obstacle,0,0,2.03,STOP,2062,wall_0.2,2.28,6,0,0,SIDESTEP,2.03,1,,82.5,0.1
+False,0,,0.16,0,True,0.2,stopped before obstacle,0,0,2.04,STOP,2080,wall_0.2,2.28,7,0,0,SIDESTEP,2.04,1,,83.2,0.1
+False,0,,0.17,0,True,0.2,stopped before obstacle,0,0,2.05,STOP,2114,wall_0.2,2.28,8,0,0,SIDESTEP,2.05,1,,84.6,0.1
+False,0,,0.15,0,True,0.3,stopped before obstacle,0,0,2.05,STOP,1714,wall_0.3,2.28,1,0,0,SIDESTEP,2.05,1,,68.5,0.1
+False,0,,0.17,0,True,0.3,stopped before obstacle,0,0,2.01,STOP,1727,wall_0.3,2.28,2,0,0,SIDESTEP,2.01,1,,69.0,0.1
+False,0,,0.15,0,True,0.3,stopped before obstacle,0,0,2.06,STOP,1700,wall_0.3,2.28,3,0,0,SIDESTEP,2.06,1,,68.0,0.1
+False,0,,0.17,0,True,0.3,stopped before obstacle,0,0,2.01,STOP,1737,wall_0.3,2.28,4,0,0,SIDESTEP,2.01,1,,69.4,0.1
+False,0,,0.19,0,True,0.3,stopped before obstacle,0,0,1.98,STOP,1728,wall_0.3,2.28,5,0,0,SIDESTEP,1.98,1,,69.1,0.1
+False,0,,0.21,0,True,0.3,stopped before obstacle,0,0,2.05,STOP,1714,wall_0.3,2.28,6,0,0,SIDESTEP,2.05,1,,68.5,0.1
+False,0,,0.16,0,True,0.3,stopped before obstacle,0,0,1.87,STOP,1795,wall_0.3,2.28,7,0,0,SIDESTEP,1.87,1,,71.8,0.1
+False,0,,0.16,0,True,0.3,stopped before obstacle,0,0,2.09,STOP,1743,wall_0.3,2.28,8,0,0,SIDESTEP,2.09,1,,69.7,0.1
+False,0,,0.28,0,True,0.3,stopped before obstacle,0,0,2.66,STOP,1175,wall_0.3_noslow,2.28,1,0,0,SIDESTEP,2.69,1,,47.0,0.3
+False,0,,0.28,0,True,0.3,stopped before obstacle,0,0,2.65,STOP,1177,wall_0.3_noslow,2.28,2,0,0,SIDESTEP,2.69,1,,47.0,0.3
+False,0,,0.32,0,True,0.3,stopped before obstacle,0,0,2.66,STOP,1149,wall_0.3_noslow,2.28,3,0,0,SIDESTEP,2.67,1,,45.9,0.3
+False,0,,0.3,0,True,0.3,stopped before obstacle,0,0,2.63,STOP,1188,wall_0.3_noslow,2.28,4,0,0,SIDESTEP,2.65,1,,47.5,0.3
+False,0,,0.34,0,True,0.3,stopped before obstacle,0,0,2.64,STOP,1185,wall_0.3_noslow,2.28,5,0,0,SIDESTEP,2.64,1,,47.4,0.3
+False,0,,0.26,0,True,0.3,stopped before obstacle,0,0,2.7,STOP,1163,wall_0.3_noslow,2.28,6,0,0,SIDESTEP,2.76,1,,46.5,0.3
+False,0,,0.25,0,True,0.3,stopped before obstacle,0,0,2.72,STOP,1174,wall_0.3_noslow,2.28,7,0,0,SIDESTEP,2.79,1,,46.9,0.3
+False,0,,0.21,0,True,0.3,stopped before obstacle,0,0,2.65,STOP,1202,wall_0.3_noslow,2.28,8,0,0,SIDESTEP,2.76,1,,48.0,0.3
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1840,wall_0.2,2.28,1,0,0,SIDESTEP,0.0,0,,73.6,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1839,wall_0.2,2.28,2,0,0,SIDESTEP,0.0,0,,73.6,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1799,wall_0.2,2.28,3,0,0,SIDESTEP,0.0,0,,71.9,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1853,wall_0.2,2.28,4,0,0,SIDESTEP,0.0,0,,74.1,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1854,wall_0.2,2.28,5,0,0,SIDESTEP,0.0,0,,74.2,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1823,wall_0.2,2.28,6,0,0,SIDESTEP,0.0,0,,72.9,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1839,wall_0.2,2.28,7,0,0,SIDESTEP,0.0,0,,73.6,
+False,0,,,1,False,0.2,collided,0,0,0.0,OFF,1872,wall_0.2,2.28,8,0,0,SIDESTEP,0.0,0,,74.9,
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.9,AVOID,3445,pillar_left,2.28,1,1,0,SIDESTEP,,1,38.8,137.8,0.1
+False,0,99.3,,0,True,0.2,mission complete,0,0,0.72,AVOID,3477,pillar_left,2.28,2,1,0,SIDESTEP,,1,39.8,139.1,0.1
+False,0,98.7,,0,True,0.2,mission complete,0,0,0.92,AVOID,3369,pillar_left,2.28,3,1,0,SIDESTEP,,1,36.1,134.8,0.1
+False,0,97.8,,0,True,0.2,mission complete,0,0,1.1,AVOID,3434,pillar_left,2.28,4,1,0,SIDESTEP,,1,39.6,137.4,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,1.08,AVOID,3449,pillar_left,2.28,5,1,0,SIDESTEP,,1,38.8,138.0,0.09
+False,0,100.9,,0,True,0.2,mission complete,0,0,0.93,AVOID,3487,pillar_left,2.28,6,1,0,SIDESTEP,,1,38.6,139.5,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,0.78,AVOID,3473,pillar_left,2.28,7,1,0,SIDESTEP,,1,39.7,138.9,0.1
+False,0,100.0,,0,True,0.2,mission complete,0,0,0.89,AVOID,3472,pillar_left,2.28,8,1,0,SIDESTEP,,1,38.9,138.9,0.1
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.93,AVOID,3467,pillar_right,2.28,1,1,0,SIDESTEP,,1,39.7,138.7,0.1
+False,0,99.3,,0,True,0.2,mission complete,0,0,0.98,AVOID,3444,pillar_right,2.28,2,1,0,SIDESTEP,,1,38.5,137.8,0.1
+False,0,98.7,,0,True,0.2,mission complete,0,0,0.89,AVOID,3455,pillar_right,2.28,3,1,0,SIDESTEP,,1,39.5,138.2,0.1
+False,0,97.8,,0,True,0.2,mission complete,0,0,0.74,AVOID,3394,pillar_right,2.28,4,1,0,SIDESTEP,,1,38.0,135.8,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,0.86,AVOID,3469,pillar_right,2.28,5,1,0,SIDESTEP,,1,39.6,138.8,0.1
+False,0,100.9,,0,True,0.2,mission complete,0,0,0.95,AVOID,3359,pillar_right,2.28,6,1,0,SIDESTEP,,1,33.5,134.4,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,1.04,AVOID,3448,pillar_right,2.28,7,1,0,SIDESTEP,,1,38.7,137.9,0.1
+False,0,100.0,,0,True,0.2,mission complete,0,0,0.92,AVOID,3490,pillar_right,2.28,8,1,0,SIDESTEP,,1,39.6,139.6,0.1
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.64,AVOID,3200,pillar_left,2.28,1,0,0,VFH,,1,29.0,128.0,0.1
+False,0,99.3,,0,True,0.2,mission complete,0,0,0.46,AVOID,3255,pillar_left,2.28,2,0,0,VFH,,1,30.9,130.2,0.1
+False,0,98.7,,0,True,0.2,mission complete,0,0,0.44,AVOID,3060,pillar_left,2.28,3,0,0,VFH,,1,23.7,122.4,0.1
+False,0,97.8,,0,True,0.2,mission complete,0,0,0.42,AVOID,3133,pillar_left,2.28,4,0,0,VFH,,1,27.5,125.3,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,0.52,AVOID,3154,pillar_left,2.28,5,0,0,VFH,,1,27.0,126.2,0.09
+False,0,100.9,,0,True,0.2,mission complete,0,0,0.59,AVOID,3369,pillar_left,2.28,6,0,0,VFH,,1,33.9,134.8,0.1
+False,1,99.2,,0,True,0.2,mission complete,0,0,0.91,AVOID,4362,pillar_left,2.28,7,2,0,VFH,,2,75.2,174.4,0.1
+False,1,100.0,,0,True,0.2,mission complete,0,0,1.07,AVOID,4580,pillar_left,2.28,8,2,0,VFH,,3,83.2,183.2,0.1
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.69,AVOID,3257,pillar_right,2.28,1,0,0,VFH,,1,31.3,130.3,0.1
+False,0,99.3,,0,True,0.2,mission complete,0,0,0.53,AVOID,3197,pillar_right,2.28,2,0,0,VFH,,1,28.6,127.9,0.1
+False,0,98.7,,0,True,0.2,mission complete,0,0,0.58,AVOID,3285,pillar_right,2.28,3,0,0,VFH,,1,32.7,131.4,0.1
+False,0,97.8,,0,True,0.2,mission complete,0,0,0.52,AVOID,3164,pillar_right,2.28,4,0,0,VFH,,1,28.8,126.6,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,0.66,AVOID,3298,pillar_right,2.28,5,0,0,VFH,,1,32.7,131.9,0.1
+False,0,100.9,,0,True,0.2,mission complete,0,0,0.55,AVOID,3074,pillar_right,2.28,6,0,0,VFH,,1,22.1,123.0,0.1
+False,0,99.2,,0,True,0.2,mission complete,0,0,0.37,AVOID,3144,pillar_right,2.28,7,0,0,VFH,,1,26.6,125.8,0.1
+False,0,100.0,,0,True,0.2,mission complete,0,0,0.74,AVOID,3327,pillar_right,2.28,8,0,0,VFH,,1,33.1,133.1,0.1
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.78,AVOID,2477,gap_wide,2.28,1,0,0,SIDESTEP,,0,0.1,99.1,
+False,0,97.7,,0,True,0.2,mission complete,0,0,0.66,AVOID,2440,gap_wide,2.28,2,0,0,SIDESTEP,,0,-0.1,97.6,
+False,0,99.4,,0,True,0.2,mission complete,0,0,0.67,AVOID,2483,gap_wide,2.28,3,0,0,SIDESTEP,,0,-0.1,99.3,
+False,0,100.2,,0,True,0.2,mission complete,0,0,0.78,AVOID,2505,gap_wide,2.28,4,0,0,SIDESTEP,,0,0.0,100.2,
+False,0,98.1,,0,True,0.2,mission complete,0,0,0.7,AVOID,2457,gap_wide,2.28,5,0,0,SIDESTEP,,0,0.2,98.3,
+False,0,98.3,,0,True,0.2,mission complete,0,0,0.99,AVOID,2455,gap_wide,2.28,6,0,0,SIDESTEP,,0,-0.1,98.2,
+False,0,99.4,,0,True,0.2,mission complete,0,0,0.97,AVOID,2484,gap_wide,2.28,7,0,0,SIDESTEP,,0,0.0,99.4,
+False,0,100.7,,0,True,0.2,mission complete,0,0,0.81,AVOID,2518,gap_wide,2.28,8,0,0,SIDESTEP,,0,0.0,100.7,
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.92,AVOID,3448,gap_narrow,2.28,1,1,0,SIDESTEP,,1,38.9,137.9,0.1
+False,0,97.7,,0,True,0.2,mission complete,0,0,1.01,AVOID,3525,gap_narrow,2.28,2,1,0,SIDESTEP,,1,43.3,141.0,0.1
+False,0,99.4,,0,True,0.2,mission complete,0,0,0.66,AVOID,3543,gap_narrow,2.28,3,1,0,SIDESTEP,,1,42.3,141.7,0.1
+False,0,100.2,,0,True,0.2,mission complete,0,0,0.72,AVOID,3512,gap_narrow,2.28,4,1,0,SIDESTEP,,1,40.3,140.5,0.1
+False,0,98.1,,0,True,0.2,mission complete,0,0,0.8,AVOID,3483,gap_narrow,2.28,5,1,0,SIDESTEP,,1,41.2,139.3,0.1
+False,0,98.3,,0,True,0.2,mission complete,0,0,0.72,AVOID,3227,gap_narrow,2.28,6,1,0,SIDESTEP,,1,30.8,129.1,0.08
+False,0,99.4,,0,True,0.2,mission complete,0,0,0.79,AVOID,3333,gap_narrow,2.28,7,1,0,SIDESTEP,,1,33.9,133.3,0.09
+False,0,100.7,,0,True,0.2,mission complete,0,0,0.91,AVOID,3604,gap_narrow,2.28,8,1,0,SIDESTEP,,1,43.5,144.2,0.1
+False,0,99.0,,0,True,0.2,mission complete,0,0,0.54,AVOID,3269,gap_narrow,2.28,1,0,0,VFH,,1,31.8,130.8,0.1
+False,0,97.7,,0,True,0.2,mission complete,0,0,0.4,AVOID,3273,gap_narrow,2.28,2,0,0,VFH,,1,33.2,130.9,0.1
+False,0,99.4,,0,True,0.2,mission complete,0,0,0.53,AVOID,3375,gap_narrow,2.28,3,0,0,VFH,,1,35.6,135.0,0.1
+False,0,100.2,,0,True,0.2,mission complete,0,0,0.48,AVOID,3327,gap_narrow,2.28,4,0,0,VFH,,1,32.9,133.1,0.1
+False,0,98.1,,0,True,0.2,mission complete,0,0,0.74,AVOID,3429,gap_narrow,2.28,5,0,0,VFH,,1,39.1,137.2,0.1
+False,0,98.3,,0,True,0.2,mission complete,0,0,0.5,AVOID,3065,gap_narrow,2.28,6,0,0,VFH,,1,24.3,122.6,0.08
+False,0,99.4,,0,True,0.2,mission complete,0,0,0.6,AVOID,3203,gap_narrow,2.28,7,0,0,VFH,,1,28.7,128.1,0.09
+False,0,100.7,,0,True,0.2,mission complete,0,0,0.49,AVOID,3427,gap_narrow,2.28,8,0,0,VFH,,1,36.4,137.1,0.1
+False,3,109.0,,0,True,0.2,mission complete,0,0,1.02,AVOID,5644,u_trap,2.28,1,1,0,SIDESTEP,,1,116.7,225.7,0.1
+False,3,108.8,,0,True,0.2,mission complete,0,0,0.77,AVOID,5455,u_trap,2.28,2,1,0,SIDESTEP,,1,109.4,218.2,0.1
+False,3,107.5,,0,True,0.2,mission complete,0,0,0.83,AVOID,5687,u_trap,2.28,3,2,0,SIDESTEP,,1,119.9,227.4,0.1
+False,2,109.5,,0,True,0.2,mission complete,0,0,0.83,AVOID,5357,u_trap,2.28,4,1,0,SIDESTEP,,1,104.7,214.2,0.1
+False,2,109.6,,0,True,0.2,mission complete,0,0,0.85,AVOID,5380,u_trap,2.28,5,1,0,SIDESTEP,,1,105.6,215.2,0.1
+False,2,108.2,,0,True,0.2,mission complete,0,0,0.8,AVOID,5348,u_trap,2.28,6,1,0,SIDESTEP,,1,105.7,213.9,0.1
+False,2,109.0,,0,True,0.2,mission complete,0,0,0.76,AVOID,5410,u_trap,2.28,7,1,0,SIDESTEP,,1,107.4,216.4,0.1
+False,3,110.3,,0,True,0.2,mission complete,0,0,0.83,AVOID,5630,u_trap,2.28,8,2,0,SIDESTEP,,1,114.9,225.2,0.1
+False,0,109.0,,0,True,0.2,mission complete,0,0,0.74,AVOID,5218,u_trap,2.28,1,0,1,VFH,,1,99.7,208.7,0.1
+False,0,108.8,,0,True,0.2,mission complete,0,0,0.71,AVOID,5220,u_trap,2.28,2,0,1,VFH,,1,100.0,208.8,0.1
+False,3,107.5,,0,True,0.2,mission complete,0,0,0.83,AVOID,5687,u_trap,2.28,3,2,0,VFH,,1,119.9,227.4,0.1
+False,0,109.5,,0,True,0.2,mission complete,0,0,0.91,AVOID,2809,u_trap,2.28,4,0,1,VFH,,1,2.9,112.4,0.1
+False,1,109.6,,0,True,0.2,mission complete,0,0,0.77,AVOID,4737,u_trap,2.28,5,0,1,VFH,,1,79.8,189.4,0.1
+False,0,108.2,,0,True,0.2,mission complete,0,0,0.84,AVOID,5195,u_trap,2.28,6,0,1,VFH,,1,99.6,207.8,0.1
+False,0,109.0,,0,True,0.2,mission complete,0,0,0.79,AVOID,5220,u_trap,2.28,7,0,1,VFH,,1,99.8,208.8,0.1
+False,3,110.3,,0,True,0.2,mission complete,0,0,0.83,AVOID,5630,u_trap,2.28,8,2,0,VFH,,1,114.9,225.2,0.1
+True,0,115.5,,0,False,0.2,aborted safely (turn blocked),0,0,0.89,STOP,1123,square_tank_close,2.1,1,0,0,SIDESTEP,,0,,44.2,
+True,0,115.0,,0,False,0.2,aborted safely (turn blocked),0,0,0.77,STOP,1130,square_tank_close,2.1,2,0,0,SIDESTEP,,0,,44.5,
+False,0,115.2,,1,False,0.2,collided (stuck),0,0,0.0,STOP,1075,square_tank_close,2.1,3,0,1,SIDESTEP,,1,,42.4,0.14
+True,0,115.6,,0,False,0.2,aborted safely (turn blocked),0,0,0.84,STOP,1105,square_tank_close,2.1,4,0,0,SIDESTEP,,0,,43.5,
+True,0,115.2,,0,False,0.2,aborted safely (turn blocked),0,0,0.65,STOP,1260,square_tank_close,2.1,5,0,0,SIDESTEP,,1,,49.7,0.16
+True,0,115.9,,0,False,0.2,aborted safely (turn blocked),0,0,1.1,STOP,1159,square_tank_close,2.1,6,0,0,SIDESTEP,,0,,45.7,
+True,0,115.1,,0,False,0.2,aborted safely (turn blocked),0,0,0.93,STOP,1126,square_tank_close,2.1,7,0,0,SIDESTEP,,0,,44.4,
+True,0,115.3,,0,False,0.2,aborted safely (turn blocked),0,0,0.66,STOP,1210,square_tank_close,2.1,8,0,0,SIDESTEP,,1,,47.6,0.21
+True,0,115.5,,0,False,0.2,aborted safely (turn blocked),0,0,0.89,AVOID,1123,square_tank_close,2.1,1,0,0,SIDESTEP,,0,,44.2,
+True,0,115.0,,0,False,0.2,aborted safely (turn blocked),0,0,0.77,AVOID,1130,square_tank_close,2.1,2,0,0,SIDESTEP,,0,,44.5,
+False,0,115.2,,1,False,0.2,collided (stuck),0,0,0.0,AVOID,843,square_tank_close,2.1,3,1,0,SIDESTEP,,1,,33.3,0.14
+True,0,115.6,,0,False,0.2,aborted safely (turn blocked),0,0,0.84,AVOID,1105,square_tank_close,2.1,4,0,0,SIDESTEP,,0,,43.5,
+False,0,115.2,,0,True,0.2,mission complete,0,0,0.11,AVOID,3757,square_tank_close,2.1,5,1,2,SIDESTEP,,3,32.9,148.1,0.16
+True,0,115.9,,0,False,0.2,aborted safely (turn blocked),0,0,1.1,AVOID,1159,square_tank_close,2.1,6,0,0,SIDESTEP,,0,,45.7,
+True,0,115.1,,0,False,0.2,aborted safely (turn blocked),0,0,0.93,AVOID,1126,square_tank_close,2.1,7,0,0,SIDESTEP,,0,,44.4,
+True,1,115.3,,0,False,0.2,aborted safely (turn blocked),0,0,0.66,AVOID,1535,square_tank_close,2.1,8,0,0,SIDESTEP,,1,,60.4,0.21
+False,0,148.6,,0,True,0.2,mission complete,0,0,inf,AVOID,4553,noisy_open,5.72,1,0,0,SIDESTEP,,0,0.0,148.6,
+False,0,148.2,,0,True,0.2,mission complete,0,0,inf,AVOID,4554,noisy_open,5.72,2,0,0,SIDESTEP,,0,0.0,148.2,
+False,0,146.9,,0,True,0.2,mission complete,0,0,inf,AVOID,4502,noisy_open,5.72,3,0,0,SIDESTEP,,0,0.0,146.9,
+False,0,149.0,,0,True,0.2,mission complete,0,0,inf,AVOID,4565,noisy_open,5.72,4,0,0,SIDESTEP,,0,0.0,149.0,
+False,0,149.1,,0,True,0.2,mission complete,0,0,inf,AVOID,4571,noisy_open,5.72,5,0,0,SIDESTEP,,0,0.0,149.1,
+False,0,147.8,,0,True,0.2,mission complete,0,0,inf,AVOID,4526,noisy_open,5.72,6,0,0,SIDESTEP,,0,0.0,147.8,
+False,0,148.5,,0,True,0.2,mission complete,0,0,inf,AVOID,4565,noisy_open,5.72,7,0,0,SIDESTEP,,0,0.0,148.5,
+False,0,149.9,,0,True,0.2,mission complete,0,0,inf,AVOID,4590,noisy_open,5.72,8,0,0,SIDESTEP,,0,0.0,149.9,
+False,0,118.5,,0,True,0.2,mission complete,0,0,1.29,AVOID,3959,noisy_pillar,2.28,1,1,0,SIDESTEP,,1,39.9,158.4,0.1
+False,0,118.9,,0,True,0.2,mission complete,0,0,0.57,AVOID,3905,noisy_pillar,2.28,2,1,0,SIDESTEP,,1,37.3,156.2,0.11
+False,0,118.2,,0,True,0.2,mission complete,0,0,1.08,AVOID,3930,noisy_pillar,2.28,3,1,0,SIDESTEP,,1,39.0,157.2,0.1
+False,0,117.4,,0,True,0.2,mission complete,0,0,0.35,AVOID,3880,noisy_pillar,2.28,4,1,0,SIDESTEP,,1,37.8,155.2,0.1
+False,2,118.9,,0,True,0.2,mission complete,0,0,0.9,AVOID,5354,noisy_pillar,2.28,5,1,0,SIDESTEP,,11,95.2,214.1,0.09
+False,0,120.5,,0,True,0.2,mission complete,0,0,0.23,AVOID,3762,noisy_pillar,2.28,6,1,0,SIDESTEP,,2,30.0,150.5,0.1
+False,0,118.7,,0,True,0.2,mission complete,0,0,0.5,AVOID,3937,noisy_pillar,2.28,7,1,0,SIDESTEP,,1,38.8,157.5,0.1
+False,0,119.7,,0,True,0.2,mission complete,0,0,1.11,AVOID,3993,noisy_pillar,2.28,8,1,0,SIDESTEP,,1,40.0,159.7,0.1
+False,1,118.5,,0,True,0.2,mission complete,0,0,0.62,AVOID,4712,noisy_pillar,2.28,1,1,0,VFH,,1,69.9,188.4,0.1
+False,0,118.9,,0,True,0.2,mission complete,0,0,0.32,AVOID,3717,noisy_pillar,2.28,2,0,0,VFH,,1,29.8,148.7,0.11
+False,0,118.2,,0,True,0.2,mission complete,0,0,0.88,AVOID,3715,noisy_pillar,2.28,3,0,0,VFH,,1,30.4,148.6,0.1
+False,0,117.4,,0,True,0.2,mission complete,0,0,0.62,AVOID,3615,noisy_pillar,2.28,4,0,0,VFH,,1,27.2,144.6,0.1
+False,0,118.9,,0,True,0.2,mission complete,0,0,0.84,AVOID,3682,noisy_pillar,2.28,5,0,0,VFH,,1,28.4,147.3,0.09
+False,0,120.5,,0,True,0.2,mission complete,0,0,0.3,AVOID,3529,noisy_pillar,2.28,6,0,0,VFH,,1,20.7,141.2,0.1
+False,1,118.7,,0,True,0.2,mission complete,0,0,0.57,AVOID,5469,noisy_pillar,2.28,7,2,0,VFH,,3,100.0,218.7,0.1
+False,0,119.7,,0,True,0.2,mission complete,0,0,0.51,AVOID,3910,noisy_pillar,2.28,8,0,0,VFH,,1,36.7,156.4,0.1
+False,0,109.0,,0,True,0.2,mission complete,0,0,2.23,STOP,3000,moving_crossing,2.28,1,0,0,SIDESTEP,,1,11.0,120.0,0.09
+False,0,108.8,,0,True,0.2,mission complete,0,0,2.09,STOP,2889,moving_crossing,2.28,2,0,0,SIDESTEP,,0,6.8,115.6,
+False,0,107.5,,0,True,0.2,mission complete,0,0,2.14,STOP,2880,moving_crossing,2.28,3,0,0,SIDESTEP,,0,7.7,115.2,
+False,0,109.5,,0,True,0.2,mission complete,0,0,2.49,STOP,3014,moving_crossing,2.28,4,0,0,SIDESTEP,,1,11.1,120.6,0.14
+False,0,109.6,,0,True,0.2,mission complete,0,0,2.44,STOP,2974,moving_crossing,2.28,5,0,0,SIDESTEP,,0,9.4,119.0,
+False,0,108.2,,0,True,0.2,mission complete,0,0,1.85,STOP,2873,moving_crossing,2.28,6,0,0,SIDESTEP,,0,6.7,114.9,
+False,0,109.0,,0,True,0.2,mission complete,0,0,2.38,STOP,3008,moving_crossing,2.28,7,0,0,SIDESTEP,,1,11.3,120.3,0.1
+False,0,110.3,,0,True,0.2,mission complete,0,0,2.2,STOP,2920,moving_crossing,2.28,8,0,0,SIDESTEP,,0,6.5,116.8,
+False,0,109.0,,0,True,0.2,mission complete,0,0,2.23,AVOID,3430,moving_crossing,2.28,1,1,0,SIDESTEP,,1,28.2,137.2,0.09
+False,0,108.8,,0,True,0.2,mission complete,0,0,2.09,AVOID,2889,moving_crossing,2.28,2,0,0,SIDESTEP,,0,6.8,115.6,
+False,0,107.5,,0,True,0.2,mission complete,0,0,2.14,AVOID,2880,moving_crossing,2.28,3,0,0,SIDESTEP,,0,7.7,115.2,
+False,0,109.5,,0,True,0.2,mission complete,0,0,2.49,AVOID,3034,moving_crossing,2.28,4,0,0,SIDESTEP,,1,11.9,121.4,0.14
+False,0,109.6,,0,True,0.2,mission complete,0,0,2.44,AVOID,2974,moving_crossing,2.28,5,0,0,SIDESTEP,,0,9.4,119.0,
+False,0,108.2,,0,True,0.2,mission complete,0,0,1.85,AVOID,2873,moving_crossing,2.28,6,0,0,SIDESTEP,,0,6.7,114.9,
+False,0,109.0,,0,True,0.2,mission complete,0,0,2.38,AVOID,3024,moving_crossing,2.28,7,0,0,SIDESTEP,,1,12.0,121.0,0.1
+False,0,110.3,,0,True,0.2,mission complete,0,0,2.2,AVOID,2920,moving_crossing,2.28,8,0,0,SIDESTEP,,0,6.5,116.8,
+False,0,115.5,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1760,square_tank,2.1,1,0,0,SIDESTEP,,0,,69.3,
+False,0,115.0,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1776,square_tank,2.1,2,0,0,SIDESTEP,,0,,69.9,
+False,0,115.2,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1812,square_tank,2.1,3,0,0,SIDESTEP,,0,,71.3,
+False,0,115.6,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1770,square_tank,2.1,4,0,0,SIDESTEP,,0,,69.6,
+False,0,115.2,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1783,square_tank,2.1,5,0,0,SIDESTEP,,0,,70.2,
+False,0,115.9,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1735,square_tank,2.1,6,0,0,SIDESTEP,,0,,68.3,
+False,0,115.1,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1758,square_tank,2.1,7,0,0,SIDESTEP,,0,,69.1,
+False,0,115.3,,1,False,0.2,collided (stuck),0,0,0.0,OFF,1791,square_tank,2.1,8,0,0,SIDESTEP,,0,,70.5,
+False,0,115.5,,0,True,0.2,mission complete,0,0,0.68,STOP,3691,square_tank,2.1,1,0,2,SIDESTEP,,2,29.9,145.4,0.09
+False,0,115.0,,0,True,0.2,mission complete,0,0,0.52,STOP,3694,square_tank,2.1,2,0,2,SIDESTEP,,2,30.5,145.5,0.1
+True,0,115.2,,0,False,0.2,aborted safely (turn blocked),0,0,1.0,STOP,1186,square_tank,2.1,3,0,0,SIDESTEP,,0,,46.7,
+False,0,115.6,,0,True,0.2,mission complete,0,0,0.64,STOP,3664,square_tank,2.1,4,0,2,SIDESTEP,,2,28.6,144.2,0.09
+True,0,115.2,,0,False,0.2,aborted safely (turn blocked),0,0,1.17,STOP,1111,square_tank,2.1,5,0,0,SIDESTEP,,0,,43.8,
+False,0,115.9,,0,True,0.2,mission complete,0,0,0.88,STOP,3620,square_tank,2.1,6,0,2,SIDESTEP,,2,26.7,142.6,0.09
+False,0,115.1,,0,True,0.2,mission complete,0,0,0.73,STOP,3689,square_tank,2.1,7,0,2,SIDESTEP,,2,30.2,145.3,0.09
+False,0,115.3,,0,True,0.2,mission complete,0,0,0.42,STOP,3786,square_tank,2.1,8,0,2,SIDESTEP,,3,33.9,149.2,0.1
+False,0,115.5,,0,True,0.2,mission complete,0,0,0.68,AVOID,3180,square_tank,2.1,1,0,2,SIDESTEP,,2,9.9,125.4,0.09
+False,0,115.0,,0,True,0.2,mission complete,0,0,0.52,AVOID,3197,square_tank,2.1,2,0,2,SIDESTEP,,2,10.8,125.8,0.1
+True,0,115.2,,0,False,0.2,aborted safely (turn blocked),0,0,1.0,AVOID,1186,square_tank,2.1,3,0,0,SIDESTEP,,0,,46.7,
+False,0,115.6,,0,True,0.2,mission complete,0,0,0.64,AVOID,3167,square_tank,2.1,4,0,2,SIDESTEP,,2,9.0,124.6,0.09
+True,0,115.2,,0,False,0.2,aborted safely (turn blocked),0,0,1.17,AVOID,1111,square_tank,2.1,5,0,0,SIDESTEP,,0,,43.8,
+False,0,115.9,,0,True,0.2,mission complete,0,0,0.88,AVOID,3119,square_tank,2.1,6,0,2,SIDESTEP,,2,7.1,123.0,0.09
+False,0,115.1,,0,True,0.2,mission complete,0,0,0.73,AVOID,3156,square_tank,2.1,7,0,2,SIDESTEP,,2,9.2,124.3,0.09
+False,0,115.3,,0,True,0.2,mission complete,0,0,0.42,AVOID,3516,square_tank,2.1,8,1,2,SIDESTEP,,3,23.4,138.7,0.1

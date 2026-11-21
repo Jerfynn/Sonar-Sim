@@ -1,0 +1,37 @@
+{
+  "name": "u_trap",
+  "walls": [
+    [
+      12,
+      -1.5,
+      12,
+      1.5
+    ],
+    [
+      8,
+      1.5,
+      12,
+      1.5
+    ],
+    [
+      8,
+      -1.5,
+      12,
+      -1.5
+    ]
+  ],
+  "circles": [],
+  "moving": [],
+  "reflectivity": {
+    "wall": 1.0,
+    "circle": 0.8,
+    "moving": 0.6
+  },
+  "seabed_altitude_m": 1.5,
+  "bounds": [
+    -2,
+    24,
+    -7,
+    7
+  ]
+}

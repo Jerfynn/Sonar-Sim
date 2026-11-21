@@ -1,0 +1,34 @@
+{
+  "name": "moving_crossing",
+  "walls": [],
+  "circles": [],
+  "moving": [
+    {
+      "r": 0.4,
+      "path": [
+        [
+          11,
+          -7
+        ],
+        [
+          11,
+          7
+        ]
+      ],
+      "speed": 0.12,
+      "phase": 0.21
+    }
+  ],
+  "reflectivity": {
+    "wall": 1.0,
+    "circle": 0.8,
+    "moving": 0.6
+  },
+  "seabed_altitude_m": 1.5,
+  "bounds": [
+    -2,
+    24,
+    -8,
+    8
+  ]
+}

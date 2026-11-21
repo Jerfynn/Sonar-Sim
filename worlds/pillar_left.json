@@ -1,0 +1,24 @@
+{
+  "name": "pillar_left",
+  "walls": [],
+  "circles": [
+    [
+      10,
+      -0.25,
+      0.4
+    ]
+  ],
+  "moving": [],
+  "reflectivity": {
+    "wall": 1.0,
+    "circle": 0.8,
+    "moving": 0.6
+  },
+  "seabed_altitude_m": 1.5,
+  "bounds": [
+    -2,
+    22,
+    -6,
+    6
+  ]
+}

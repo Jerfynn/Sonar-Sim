@@ -1,0 +1,25 @@
+{
+  "name": "open_wall",
+  "walls": [
+    [
+      15,
+      -8,
+      15,
+      8
+    ]
+  ],
+  "circles": [],
+  "moving": [],
+  "reflectivity": {
+    "wall": 1.0,
+    "circle": 0.8,
+    "moving": 0.6
+  },
+  "seabed_altitude_m": 1.5,
+  "bounds": [
+    -2,
+    18,
+    -8,
+    8
+  ]
+}

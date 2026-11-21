@@ -1,0 +1,18 @@
+{
+  "name": "open_water",
+  "walls": [],
+  "circles": [],
+  "moving": [],
+  "reflectivity": {
+    "wall": 1.0,
+    "circle": 0.8,
+    "moving": 0.6
+  },
+  "seabed_altitude_m": 1.0,
+  "bounds": [
+    -2,
+    32,
+    -6,
+    6
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "noisy_pillar",
+  "walls": [],
+  "circles": [
+    [
+      12,
+      0.2,
+      0.4
+    ]
+  ],
+  "moving": [],
+  "reflectivity": {
+    "wall": 1.0,
+    "circle": 0.8,
+    "moving": 0.6
+  },
+  "seabed_altitude_m": 1.0,
+  "bounds": [
+    -2,
+    26,
+    -6,
+    6
+  ]
+}
