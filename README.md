@@ -1,4 +1,4 @@
-# Trinetra (AUV T100) — Ping360 sonar obstacle-avoidance simulator
+# Ping360 sonar obstacle-avoidance simulator
 
 2-D top-down simulator for the torpedo AUV with a Blue Robotics Ping360 scanning sonar, plus the
 **detection** and **avoidance** logic that is meant to be dropped into the Jetson backend
